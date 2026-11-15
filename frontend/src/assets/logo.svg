@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+  <rect width="42" height="42" x="2" y="3" rx="13" fill="#211a35"/>
+  <path d="M13 12h14a9 9 0 0 1 0 18h-7v6h-7zm7 7v5h7a2.5 2.5 0 0 0 0-5z" fill="url(#g)"/>
+  <text x="54" y="31" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#fff">PixelForge <tspan fill="#c4b5fd">AI</tspan></text>
+</svg>
